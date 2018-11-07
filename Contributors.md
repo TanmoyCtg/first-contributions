@@ -5,6 +5,7 @@
 - [Iftekhar Joy](https://github.com/TanmoyCtg) 
 - [Sarah Phillips](https://github.com/snphillips)
 - [Trenton Hall]
+- [Tanmoy](https://github.com/ztanlanmoy)
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
